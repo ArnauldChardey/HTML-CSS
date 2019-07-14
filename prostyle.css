@@ -1,0 +1,11 @@
+body
+{ 
+background-image:url("eri.jpg");
+background-repeat:
+}
+
+fieldset
+{
+border:3px solid black;
+position:vertical;
+}
